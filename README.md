@@ -1,2 +1,2 @@
-# havayolu--irketi
+# havayolu-sirketi
 Havayolu Yolcu Memnuniyeti Tahmini
